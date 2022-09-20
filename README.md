@@ -17,3 +17,11 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### bootstrap installation
+npm install bootstrap
+
+
+### font awsome installation
+npm install --save-dev@fortawesome/fontawesome-free
+
